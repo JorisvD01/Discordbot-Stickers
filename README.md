@@ -1,4 +1,4 @@
-# discord_icons_bot
+# Discordbot-Stickers
 A self hosted discord bot to send local image stickers/icons to your channel when using a command
 
 # Start using the bot
